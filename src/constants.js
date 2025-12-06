@@ -277,7 +277,7 @@ export const SkillsInfo = [
       image: portfolioLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "Animations", "Responsive Design", "UI/UX", "Tailwind CSS", "Vercel"],
       github: "https://github.com/shayan-ing/web-portfolio",
-      webapp: "https://web-portfolio-dun.vercel.app/",
+      webapp: "https://web-portfolio-swart-mu.vercel.app/",
     },
     // {
     //   id: 6,
