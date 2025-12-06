@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://web-portfolio-swart-mu.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/shayan-ing/web-portfolio]
 cd your-repo-name
 ````
 
@@ -47,13 +47,7 @@ npm start
 ```bash
 npm run build
 ```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
+This project was created with ❤️ by [Shayan A. Abedeen](https://vercel.com/shayan-ings-projects).
 If you like it, feel free to ⭐ this repository and share!
